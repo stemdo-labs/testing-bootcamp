@@ -1,5 +1,7 @@
 # initial-instructions
 
+# DELETE THIS REPO !!
+
 Manten los apartados `Estructura del Repositorio` , `Contribución` y modifica el resto de apartados
 
 
