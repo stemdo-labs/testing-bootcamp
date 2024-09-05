@@ -1,0 +1,8 @@
+name: Reminder Limit Date
+
+on:
+  workflow_dispatch:
+
+jobs:
+  call-shared-workflow:
+    uses: stemdo-labs/workflows/.github/workflows/reminder-limit-date.yaml@main
